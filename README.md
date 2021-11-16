@@ -9,3 +9,5 @@ The zip should contain the RMSKIN.ini and folder structure.
 
 A rmskin package is simply a zip file but Rainmeter adds a custom footer to the zip file to prevent you from renaming a zip file to rmskin.
 The footer contains the size of the package in bytes and a "RMSKIN" thumbprint. You can look this up with a HEX editor.
+
+![rmskinhex](https://user-images.githubusercontent.com/50437199/142036954-852d49d8-848b-4e8f-a470-e055f264faaa.jpg)
